@@ -1,0 +1,21 @@
+filename,label,num_peaks,mean_prominence,spacing_std,asymmetry_index,cropped
+AS205_continuum.fits,smooth-compact,0,0,0,0.023,TRUE
+AS209_continuum.fits,ring-multiple,5,0.0913,43.1,0,FALSE
+DoAr25_continuum.fits,smooth-extended,1,0.0431,0,0.002,FALSE
+DoAr33_continuum (1).fits,smooth-compact,0,0,0,0,FALSE
+Elias20_continuum (1).fits,smooth-compact,0,0,0,0.005,FALSE
+Elias24_continuum.fits,smooth-extended,1,0.0596,0,0.019,FALSE
+Elias27_continuum (1).fits,smooth-extended,1,0.0098,0,0.001,FALSE
+GWLup_continuum (1).fits,smooth-extended,1,0.023,0,0,FALSE
+HD142666_continuum.fits,ring-wide-spacing,6,0.0092,105.93,0.007,FALSE
+HD143006_continuum.fits,ring-multiple,6,0.043,967.52,0.003,FALSE
+HD163296_continuum.fits,ring-wide-spacing,3,0.0228,41,0.001,FALSE
+HTLup_continuum (1).fits,smooth-compact,0,0,0,0.031,TRUE
+IMLup_continuum (1).fits,smooth-compact,0,0,0,0.001,FALSE
+MYLup_continuum (1).fits,smooth-extended,1,0.0102,0,0.007,FALSE
+RULup_continuum (1).fits,smooth-extended,1,0.0124,0,0.002,FALSE
+SR4_continuum (1).fits,smooth-extended,1,0.1654,0,0.003,FALSE
+Sz114_continuum (1).fits,smooth-compact,0,0,0,0.001,FALSE
+Sz129_continuum (1).fits,ring-multiple,8,0.0513,1587.96,0,FALSE
+WSB52_continuum (1).fits,smooth-compact,0,0,0,0.009,FALSE
+WaOph6_continuum (1).fits,smooth-extended,0,0,0,0.058,FALSE
